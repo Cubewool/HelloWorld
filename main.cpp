@@ -6,7 +6,7 @@
 //  Copyright © 2019 Ginny. All rights reserved.
 //
 
-// This is a line created by yaguu
+// This is a line created by yaguu wang
 
 #include <iostream>
 #include "NextPermutation.h"
