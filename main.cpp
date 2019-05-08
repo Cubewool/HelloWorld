@@ -5,8 +5,7 @@
 //  Created by Ginny on 5/6/19.
 //  Copyright © 2019 Ginny. All rights reserved.
 //
-
-// This is a line created by yaguu wang
+// This is a line created by ginny
 
 #include <iostream>
 #include "NextPermutation.h"
